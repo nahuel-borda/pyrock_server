@@ -4,4 +4,4 @@ Pyrock server is a python extension for Minecraft Bedrock Server, implementing a
 
 It comes with a initial integration, _Redstone_, a Discord Bot that aims to provide management features on Discord Servers.
 
-for troubles during isntalation, feel free to contact me.
+for troubles during instalation, feel free to contact me.
